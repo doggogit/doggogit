@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi.
+Name's Doggo.
 
-<!--
-**doggogit/doggogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+18 years old.
 
-Here are some ideas to get you started:
+Fucking around with Funkin' mods, might do other stuff in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This account is primarly used as a backup or archive for projects I've done.
+
+Socials:
+* Discord -> d1ggo
+* [GameBanana](https://gamebanana.com/members/2402280)
+* [Newgrounds](https://d1ggong.newgrounds.com/)
+* [Twitter](https://twitter.com/_d1ggo)
