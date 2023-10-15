@@ -1,5 +1,4 @@
-## Hi.
-Name's Doggo.
+## Hi. Name's Doggo.
 
 18 years old.
 
