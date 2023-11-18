@@ -2,9 +2,7 @@
 
 18 years old.
 
-Fucking around with Funkin' mods, might do other stuff in the future.
-
-This account is primarly used as a backup or archive for projects I've done.
+Currently making/porting Friday Night Funkin' mods.
 
 ### Socials:
 * Discord -> d1ggo
