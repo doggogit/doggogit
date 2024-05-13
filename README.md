@@ -1,6 +1,6 @@
 ## Hi. Name's Doggo.
 
-18 years old.
+19 years old.
 
 ### Socials:
 * [Bluesky](https://bsky.app/profile/d1ggo.bsky.social)
